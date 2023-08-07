@@ -68,10 +68,7 @@ float nota1,nota2,nota3,nota4,nota5;
 	 	if (nota5>=7){
 	printf ("Aluno %s aprovado\n",nome5);
 	} else {
-	 printf ("Aluno %s reprovado\n",nome5); }
-	
-// falta colocar na ordem crescente
-	
+	 printf ("Aluno %s reprovado\n",nome5); }	
 	
 	system ("pause");
 	return 0;
